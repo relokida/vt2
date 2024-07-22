@@ -10,12 +10,13 @@ albedo_texture = ExtResource( 2 )
 uv1_scale = Vector3( 26, 26, 1 )
 
 [sub_resource type="SpatialMaterial" id=6]
-albedo_color = Color( 0.509804, 0.509804, 0.509804, 1 )
+albedo_color = Color( 0.509804, 0.509804, 0.509804, 0 )
 
 [sub_resource type="SpatialMaterial" id=7]
-albedo_color = Color( 0.509804, 0.509804, 0.509804, 1 )
+albedo_color = Color( 0.509804, 0.509804, 0.509804, 0 )
 
 [sub_resource type="SpatialMaterial" id=10]
+albedo_color = Color( 1, 1, 1, 0 )
 albedo_texture = ExtResource( 3 )
 uv1_scale = Vector3( 26, 26, 1 )
 
@@ -25,7 +26,7 @@ uv1_scale = Vector3( 18, 18, 1 )
 
 [sub_resource type="SpatialMaterial" id=4]
 flags_transparent = true
-albedo_color = Color( 1, 1, 1, 0.560784 )
+albedo_color = Color( 1, 1, 1, 0.576471 )
 albedo_texture = ExtResource( 1 )
 uv1_scale = Vector3( 26, 26, 1 )
 
